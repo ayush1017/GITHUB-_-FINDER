@@ -1,0 +1,26 @@
+@media (max-width:1990px) {
+    .container{
+        display: grid;
+        grid-template-columns: repeat(4,1fr);
+        row-gap: 10px;
+        column-gap: 4px;
+        border-radius: 10px;
+        border-style: solid;
+        border-color: aliceblue;
+        margin-bottom: 20px;
+        
+
+        
+
+     
+     }
+     
+}
+@media screen {
+    .img1{
+        border-radius: 50%;
+        height: 100px;
+        width: 80;
+     }
+    
+}
